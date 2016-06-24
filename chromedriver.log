@@ -1,5 +1,5 @@
-[0.001][INFO]:      ChromeDriver 23.0.1240.0 C:\Python27\chromedriver.exe
-[1.940][FINE]:      Initializing session with capabilities {
+[0.020][INFO]:      ChromeDriver 23.0.1240.0 C:\Program Files (x86)\Google\Chrome\Application\chromedriver.exe
+[1.620][FINE]:      Initializing session with capabilities {
    "browserName": "chrome",
    "chromeOptions": {
       "args": [  ],
@@ -10,7 +10,4 @@
    "version": ""
 }
 
-[1.940][INFO]:      Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --enable-logging --log-level=1 --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --ignore-certificate-errors about:blank
-[46.941][SEVERE]:   Failed to initialize connection
-[56.964][WARNING]:  Chrome still running, terminating...
-[56.964][INFO]:     Chrome shutdown
+[1.630][INFO]:      Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --enable-logging --log-level=1 --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --ignore-certificate-errors about:blank
